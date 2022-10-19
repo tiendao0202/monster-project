@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git@github.com:tiendao0202/monster-project.git/static/css/main.48aca84e.css",
+    "main.js": "/git@github.com:tiendao0202/monster-project.git/static/js/main.5bd95998.js",
+    "static/js/787.e4e9b7ff.chunk.js": "/git@github.com:tiendao0202/monster-project.git/static/js/787.e4e9b7ff.chunk.js",
+    "index.html": "/git@github.com:tiendao0202/monster-project.git/index.html",
+    "main.48aca84e.css.map": "/git@github.com:tiendao0202/monster-project.git/static/css/main.48aca84e.css.map",
+    "main.5bd95998.js.map": "/git@github.com:tiendao0202/monster-project.git/static/js/main.5bd95998.js.map",
+    "787.e4e9b7ff.chunk.js.map": "/git@github.com:tiendao0202/monster-project.git/static/js/787.e4e9b7ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48aca84e.css",
+    "static/js/main.5bd95998.js"
+  ]
+}
